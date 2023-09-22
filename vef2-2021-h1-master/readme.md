@@ -21,7 +21,7 @@ Efirfarandi skref þarf að framkvæma svo hægt sé að keyra verkefnið á eig
 
 1. Klónum verkefnið með 
 ```
-git clone https://github.com/katkek/vef2-2021-h1.git
+git clone 
 ```
 
 2. Búa þarf til aðgang á Cloudinary og PostgresSql ef enginn aðgangur er nú þegar til. 
